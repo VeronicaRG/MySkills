@@ -10,7 +10,6 @@ This app helps for practies fundaments like React Native and TypeScript.
 
 ## ✨ Technologies
 
--   [X] Styled Components
 -   [X] React Navigation
 -   [X] Hooks 
 -   [X] StyleSheet
